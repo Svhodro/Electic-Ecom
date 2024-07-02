@@ -3,7 +3,7 @@
 - show product
 - cart product's
 - search product's
-## live link : https://amazon-clone-weld-gamma.vercel.app/
+## live link : https://electic-ecom.vercel.app/
 # Project  technology's
 -- Frontend
 
