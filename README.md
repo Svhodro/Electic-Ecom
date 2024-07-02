@@ -2,6 +2,7 @@
 ## Fetarts
 - show product
 - cart product's
+- search product's
 ## live link : https://amazon-clone-weld-gamma.vercel.app/
 # Project  technology's
 -- Frontend
